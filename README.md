@@ -187,22 +187,22 @@ pip install matplotlib pandas numpy
 ### Speech Model
 
 ```bash
-speech_pipeline/IIITH_Voice_Train.ipynb
-speech_pipeline/IIITH_Voice_Test.ipynb
+speech_pipeline/Train.ipynb
+speech_pipeline/Test.ipynb
 ```
 
 ### Text Model
 
 ```bash
-text_pipeline/IIITH_Text_Train.ipynb
-text_pipeline/IIITH_Text_Test.ipynb
+text_pipeline/Train.ipynb
+text_pipeline/Test.ipynb
 ```
 
 ### Fusion Model
 
 ```bash
-fusion_pipeline/IIITH_Multi_Train.ipynb
-fusion_pipeline/IIITH_Multi_Test.ipynb
+fusion_pipeline/Train.ipynb
+fusion_pipeline/Test.ipynb
 ```
 
 ---
