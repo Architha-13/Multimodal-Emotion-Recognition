@@ -24,16 +24,16 @@ The experiments demonstrate that speech signals contain significantly stronger e
 models/
 │
 ├── fusion_pipeline/
-│   ├── IIITH_Multi_Train.ipynb
-│   └── IIITH_Multi_Test.ipynb
+│   ├── Train.ipynb
+│   └── Test.ipynb
 │
 ├── speech_pipeline/
-│   ├── IIITH_Voice_Train.ipynb
-│   └── IIITH_Voice_Test.ipynb
+│   ├── Train.ipynb
+│   └── Test.ipynb
 │
 └── text_pipeline/
-    ├── IIITH_Text_Train.ipynb
-    └── IIITH_Text_Test.ipynb
+    ├── Train.ipynb
+    └── Test.ipynb
 ```
 
 ---
